@@ -1,4 +1,4 @@
-Given simple landmark names or addresses like "Golden State Bridge, CA",
+Given simple landmark names or addresses like "Golden Gate Bridge, CA",
 the process of downloading NAIP high-resolution aerial images containing
 the landmarks is automated. Visual verification the procedure works is given by
 extracting a subset from the downloaded images centered around the landmarks as
